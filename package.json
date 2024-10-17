@@ -1,0 +1,103 @@
+{
+    "name": "food-recipes",
+    "version": "1.0.0",
+    "main": "expo/AppEntry.js",
+    "scripts": {
+        "start": "expo start",
+        "android": "expo start --android",
+        "ios": "expo start --ios",
+        "web": "expo start --web",
+        "format": "prettier --write \"**/*.+(tsx|js|jsx|json)\""
+    },
+    "dependencies": {
+        "@expo/metro-runtime": "~4.0.0",
+        "@fortawesome/fontawesome-svg-core": "^6.5.1",
+        "@fortawesome/free-brands-svg-icons": "^6.5.1",
+        "@fortawesome/free-regular-svg-icons": "^6.6.0",
+        "@fortawesome/free-solid-svg-icons": "^6.5.1",
+<<<<<<< HEAD
+        "@react-native-async-storage/async-storage": "^1.24.0",
+        "@react-native-community/checkbox": "^0.5.17",
+        "@react-navigation/material-top-tabs": "^7.1.0",
+        "@react-navigation/native": "^7.0.14",
+        "@react-navigation/stack": "^6.4.1",
+        "@types/react-native-dotenv": "^0.2.2",
+        "axios": "^1.7.9",
+        "dotenv": "^16.4.7",
+        "expo": "^52.0.7",
+        "expo-av": "^15.0.1",
+        "expo-checkbox": "~4.0.0",
+        "expo-constants": "~17.0.3",
+        "expo-env": "^1.1.1",
+        "expo-font": "~13.0.1",
+        "expo-status-bar": "~2.0.0",
+        "expo-video": "^2.0.2",
+        "firebase": "^10.14.1",
+=======
+        "@react-native-async-storage/async-storage": "^2.1.0",
+        "@react-navigation/bottom-tabs": "^7.0.5",
+        "@react-navigation/material-top-tabs": "^7.0.18",
+        "@react-navigation/native": "^7.0.3",
+        "@react-navigation/stack": "^6.4.1",
+        "@types/react-native-dotenv": "^0.2.2",
+        "dotenv": "^16.4.5",
+        "expo": "^51.0.38",
+        "expo-av": "~14.0.7",
+        "expo-constants": "~16.0.2",
+        "expo-env": "^1.1.1",
+        "expo-font": "^12.0.10",
+        "expo-status-bar": "~1.12.1",
+        "firebase": "^11.0.1",
+>>>>>>> 4a5afad (setting language)
+        "prettier": "^3.3.3",
+        "react": "18.3.1",
+        "react-dom": "18.3.1",
+        "react-native": "0.76.2",
+        "react-native-dotenv": "^3.4.11",
+<<<<<<< HEAD
+<<<<<<< HEAD
+        "react-native-gesture-handler": "^2.20.2",
+        "react-native-pager-view": "^6.6.1",
+        "react-native-reanimated": "^3.16.2",
+        "react-native-safe-area-context": "^4.12.0",
+        "react-native-screens": "^4.1.0",
+        "react-native-svg": "^15.10.1",
+        "react-native-table-component": "^1.2.2",
+        "react-native-web": "~0.19.13"
+=======
+=======
+        "react-native-flexbox-grid": "^0.3.2",
+>>>>>>> 099e6a8 (section 5)
+        "react-native-gesture-handler": "^2.21.1",
+        "react-native-pager-view": "^6.6.1",
+        "react-native-reanimated": "^3.16.1",
+        "react-native-safe-area-context": "^4.14.0",
+        "react-native-screens": "^4.1.0",
+        "react-native-svg": "^15.9.0",
+        "react-native-table-component": "^1.2.2",
+        "react-native-vector-icons": "^10.2.0",
+        "react-native-web": "~0.19.10"
+>>>>>>> 4a5afad (setting language)
+    },
+    "devDependencies": {
+        "@babel/core": "^7.25.2",
+        "@fortawesome/react-native-fontawesome": "^0.3.0",
+        "@types/babel__core": "^7.20.5",
+        "@types/babel__generator": "^7.6.8",
+        "@types/babel__template": "^7.4.4",
+        "@types/babel__traverse": "^7.20.6",
+        "@types/graceful-fs": "^4.1.9",
+        "@types/lodash.debounce": "^4.0.9",
+        "@types/react": "~18.3.12",
+        "@types/react-native": "^0.73.0",
+        "@types/react-native-table-component": "^1.2.8",
+        "@types/react-navigation": "^3.4.0",
+<<<<<<< HEAD
+        "typescript": "^5.3.3"
+=======
+        "react-native-svg-transformer": "^1.5.0",
+        "typescript": "^5.6.3"
+>>>>>>> 4a5afad (setting language)
+    },
+    "private": true
+}
